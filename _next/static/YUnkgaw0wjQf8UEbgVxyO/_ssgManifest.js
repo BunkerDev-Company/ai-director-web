@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fdebriefs\u002F[id]","\u002Fscenarios\u002F[id]","\u002Ftrainer\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
